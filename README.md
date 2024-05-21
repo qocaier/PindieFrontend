@@ -1,1 +1,1 @@
-# Мой бэкенд: https://github.com/qocaier/PindieBackend
+# Все в другой ветке
